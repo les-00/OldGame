@@ -83,6 +83,7 @@ public class Main extends Application{
 		
 		
 		primaryStage.setScene(scene);
+		primaryStage.setTitle("Drawing Lines");
 		primaryStage.show();
 	}
 	
